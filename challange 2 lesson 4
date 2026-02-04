@@ -1,0 +1,4 @@
+favorite_animals = ('singa', 'banteng', 'harimau', 'naga' , 'badak')
+
+for fav_animal in favorite_animals:
+    print(f'hewan ini {fav_animal} adalah hewan yang keren!')
